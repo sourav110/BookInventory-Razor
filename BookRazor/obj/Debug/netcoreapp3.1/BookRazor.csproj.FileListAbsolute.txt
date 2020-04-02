@@ -415,3 +415,4 @@ G:\Z-Core\BookRazor\BookRazor\obj\Debug\netcoreapp3.1\BookRazor.MvcApplicationPa
 G:\Z-Core\BookRazor\BookRazor\obj\Debug\netcoreapp3.1\Razor\Pages\BookList\Index.cshtml.g.cs
 G:\Z-Core\BookRazor\BookRazor\obj\Debug\netcoreapp3.1\Razor\Pages\BookList\Create.cshtml.g.cs
 G:\Z-Core\BookRazor\BookRazor\obj\Debug\netcoreapp3.1\Razor\Pages\BookList\Edit.cshtml.g.cs
+G:\Z-Core\BookRazor\BookRazor\obj\Debug\netcoreapp3.1\Razor\Pages\BookList\Upsert.cshtml.g.cs
